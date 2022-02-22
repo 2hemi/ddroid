@@ -5,7 +5,7 @@ script to generate source code from apk file
 
 ### use
 
-<br> ddroid.sh *FILENAME*.apk 
+ddroid.sh *filename*.apk 
 
 
 ### tools 
